@@ -1,8 +1,8 @@
 <プロジェクト 名前="Npz System Monitor" ビット32="×" 管理者実行="×" ライブラリ同梱="○">
   <一覧>
-    <項目 位置="NpzSM-MainApp.rdr" 開始="○" 開く="○" />
+    <項目 位置="rdr\Main\NpzSM-MainApp.rdr" 開始="○" 開く="○" />
   </一覧>
-  <バージョン 値="0.9.0.2">
+  <バージョン 値="1.0.0.0">
     <項目 名前="FileDescription" 値="Npz System Monitor" />
     <項目 名前="CompanyName" 値="Nor &lt;parz&gt;" />
     <項目 名前="ProductName" 値="Npz System Monitor" />
