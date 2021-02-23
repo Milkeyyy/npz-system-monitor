@@ -3,4 +3,8 @@ Npz System Monitor は、CPU, RAMの使用率、ディスクの読み書き速�
 
 **プログラミング言語: プロデル** (https://rdr.utopiat.net/)
 
-Created by `Nor <parz>`
+・[**インストーラーのダウンロード**](https://github.com/Milkeyyy/npz-system-monitor/raw/main/Package/0_Installer/NpzSystemMonitor-OnlineInstaller.exe "インストーラーのダウンロード")
+
+・[**変更履歴**](https://raw.githubusercontent.com/Milkeyyy/npz-system-monitor/main/Changelog.txt "変更履歴を表示")
+
+Copyright 2021 `Nor <parz>`
