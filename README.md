@@ -6,4 +6,5 @@ Npz System Monitor は、CPU, RAMの使用率、ディスクの読み書き速�
 ・[**変更履歴**](https://raw.githubusercontent.com/Milkeyyy/npz-system-monitor/main/Changelog.txt "変更履歴を表示")
 
 **プログラミング言語: プロデル** (https://rdr.utopiat.net/)
+
 Copyright 2021 `Nor <parz>`
