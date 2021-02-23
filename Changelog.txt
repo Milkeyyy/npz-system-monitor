@@ -1,6 +1,6 @@
 Npz System Monitor - Changelog
 
-Version 1.0.0-release (10000.210201)
+Version 1.0.0-test.1 (10000.210201)
 [変更点]
 初回リリースバージョン
 
