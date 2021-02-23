@@ -1,0 +1,16 @@
+Npz System Monitor Online Installer - Changelog
+
+Version 1.1.0 (10100.210201)
+[変更点]
+アンインストール機能を追加 (起動引数 - -Uninstall)
+インストール時の処理を改善
+
+[不具合修正]
+
+
+Version 1.0.0 (10000.210201)
+[変更点]
+初回バージョン
+
+[不具合修正]
+初回バージョン

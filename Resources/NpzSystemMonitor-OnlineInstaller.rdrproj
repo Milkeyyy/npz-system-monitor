@@ -2,7 +2,7 @@
   <一覧>
     <項目 位置="rdr\Installer\NpzSystemMonitor-OnlineInstaller.rdr" 開始="○" 開く="○" />
   </一覧>
-  <バージョン 値="1.0.0.0">
+  <バージョン 値="1.1.0.0">
     <項目 名前="FileDescription" 値="Npz System Monitor Online Installer" />
     <項目 名前="CompanyName" 値="Nor &lt;parz&gt;" />
     <項目 名前="ProductName" 値="Npz System Monitor Online Installer" />
