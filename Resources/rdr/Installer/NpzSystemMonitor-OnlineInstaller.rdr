@@ -13,7 +13,7 @@
 
 パッケージURL=「https://github.com/Milkeyyy/npz-system-monitor/raw/main/Package/」
 アップデートファイルURL=「https://raw.githubusercontent.com/Milkeyyy/npz-system-monitor/main/Package/Update.ini」
-アーカイバーURL=「https://github.com/Milkeyyy/npz-system-monitor/raw/main/Resources/Resources\Libraries\7-zip.dll」
+アーカイバーURL=「https://github.com/Milkeyyy/npz-system-monitor/raw/main/Resources/Resources/Libraries/7-zip32.dll」
 
 例外監視
 
@@ -66,7 +66,7 @@
 
 ーー解凍/終了処理
 	コンソール内容=「パッケージを解凍...」。コンソール出力する
-コンソール内容=「***** ファイルの上書き確認ウィンドウが表示された場合は、 "すべて上書き" を選択してください。 *****」。コンソール出力する
+コンソール内容=「***** ファイルの上書き確認ウィンドウが表示された場合は、 "全て上書き" を選択してください。 *****」。コンソール出力する
 「[テンポラリフォルダ]\[プログラムのタイトル]\NpzSystemMonitor.7z」を「[プログラムファイル]Npz System Monitor」へ解凍する
 コンソール内容=「完了
 」。コンソール出力する
@@ -74,6 +74,7 @@
 コンソール内容=「最終処理中...
 」。コンソール出力する
 「[テンポラリフォルダ]\[プログラムのタイトル]」というフォルダを削除する
+「[今の位置][([アーカイバーURL]のファイル名だけ)]」を削除する
 
 もし「[プログラムファイル]Npz System Monitor\NpzSystemMonitor.exe」が存在するなら
 	コンソール内容=「----- インストール完了 -----」。コンソール出力する
@@ -95,11 +96,8 @@
 終わり
 
 エラー報告する手順
-	「[プログラムのタイトル] ***ErrorLog*** - Version [バージョン] ([内部バージョン]) | <[リリースサイクル]> ([ビルド日])
-[[][(今日を「yyyy/MM/dd HH:mm:ss」に整えたもの)][]]
-
-エラー番号: [エラー番号]
-エラー内容: [エラー内容]」を「[マイドキュメント][プログラムのタイトル]\ErrorLogs\ErrorLog-[(今日を「yyyyMMdd.HHmmss」に整えたもの)]-[エラー番号].txt」へ保存する
 	「[エラー内容]」を「[プログラムのタイトル] - エラー ([エラー番号])」として中止アイコンで表示する
+	「[テンポラリフォルダ]\[プログラムのタイトル]」というフォルダを削除する
+	「[今の位置][([アーカイバーURL]のファイル名だけ)]」を削除する
 	終了する
 終わり
