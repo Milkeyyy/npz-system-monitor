@@ -1,0 +1,13 @@
+※コンソール
+プログラムのタイトル=「Npz System Monitor ProcessBridge」
+メインアプリケーションタイトル=「Npz System Monitor」
+バージョン=「1.0.0」
+内部バージョン=10000.210201
+ライセンス=「AGPL-3.0 License」
+作者=「Nor <parz>」
+
+もし「[今の位置]NpzSM-PB.ini」が存在しないなら、「NpzSM-PB.ini が存在しません。」をコンソールへ表示して改行する。2秒待つ。終了する
+起動設定という設定ファイルを作る
+起動設定のファイル名=「[今の位置]NpzSM-PB.ini」
+[起動設定について「Program」から「Path」を取得したもの]を[起動設定について「Program」から「Argument」を取得したもの]として[起動設定について「Program」から「Window」を取得したもの]で起動する
+終了する

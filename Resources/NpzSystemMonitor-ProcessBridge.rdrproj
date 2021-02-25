@@ -1,0 +1,15 @@
+<プロジェクト 名前="Npz System Monitor ProcessBridge" ビット32="○" 管理者実行="×" ライブラリ同梱="○">
+  <一覧>
+    <項目 位置="rdr\ProcessBridge\NpzSM-ProcessBridge.rdr" 開始="○" 開く="○" />
+  </一覧>
+  <バージョン 値="1.0.0.0">
+    <項目 名前="FileDescription" 値="Npz System Monitor ProcessBridge" />
+    <項目 名前="CompanyName" 値="Nor &lt;parz&gt;" />
+    <項目 名前="ProductName" 値="Npz System Monitor ProcessBridge" />
+    <項目 名前="LegalCopyright" 値="Copyright 2021 Nor &lt;parz&gt;" />
+  </バージョン>
+  <リソース>
+    <項目 名前="アイコン" 値="Resources\Icons\icon.ico" />
+  </リソース>
+  <実行開始 モード="OnConsole" パス="" 形式="Console" />
+</プロジェクト>
