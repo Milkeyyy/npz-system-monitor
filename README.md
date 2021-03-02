@@ -9,4 +9,4 @@ Npz System Monitor は、CPU, RAMの使用率、ディスクの読み書き速�
 
 **プログラミング言語: プロデル** (https://rdr.utopiat.net/)
 
-Copyright 2021 `Nor <parz>`
+`Copyright 2021 Nor <parz>`
