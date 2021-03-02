@@ -1,5 +1,10 @@
 Npz System Monitor Online Installer - Changelog
 
+Version 1.2.0 (10200.210301)
+[変更点]
+アップデート機能を追加
+release,test 両方のリリースサイクルに対応
+
 Version 1.1.0 (10100.210202)
 [変更点]
 アンインストール機能を追加 (起動引数 - -Uninstall)
