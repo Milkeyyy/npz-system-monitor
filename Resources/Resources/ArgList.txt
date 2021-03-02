@@ -1,2 +1,2 @@
-/UpdateCheck - アップデートを確認
-/ForcedUpdate - バージョンに関係なく強制的にアップデートを実行
+-UpdateCheck - アップデートを確認
+-ForcedUpdate - バージョンに関係なく強制的にアップデートを実行
