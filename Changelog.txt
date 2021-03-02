@@ -1,5 +1,11 @@
 Npz System Monitor - Changelog
 
+Version 1.0.0-test.5 (10000.210301)
+[変更点]
+設定に「常に透過する」項目を追加
+起動引数を追加 - "/UpdateCheck" - アップデートを確認, "/ForcedUpdate" - バージョンに関係なく強制的にアップデートを実行
+
+
 Version 1.0.0-test.4 (10000.210204)
 [変更点]
 アンインストール時の動作を変更
