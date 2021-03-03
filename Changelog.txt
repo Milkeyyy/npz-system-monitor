@@ -1,5 +1,9 @@
 Npz System Monitor - Changelog
 
+Version 1.0.1-release (10001.210303) / Version 1.0.0-test.5 (10000.210302)
+[不具合修正]
+アップデートが正常に実行できない不具合を修正
+
 Version 1.0.0-release (10000.210301)
 [変更点]
 起動引数を追加 - "-UpdateCheck" - アップデートを確認, "-ForcedUpdate" - バージョンに関係なく強制的にアップデートを実行
