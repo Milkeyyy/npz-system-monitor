@@ -198,7 +198,7 @@ Build date: [ビルド日]」を「[プログラムのタイトル] | アップ�
 		「[アップデート設定について「updater_[アップデート先リリースサイクル]」から「FileUrl」を取得したもの]」を「[テンポラリフォルダ][プログラムのタイトル]\[アップデート設定について「updater_[アップデート先リリースサイクル]」から「FileName」を取得したもの]」へHTTPでダウンロードする
 		「[[]Program[]]
 Path=[テンポラリフォルダ][プログラムのタイトル]\[アップデート設定について「updater_[アップデート先リリースサイクル]」から「FileName」を取得したもの]
-Argument=-Update
+Argument=-UpdateTo[アップデート先リリースサイクル]
 Window=標準」を「[今の位置]NpzSM-PB.ini」へ「Shift-JIS」で保存する
 			「[今の位置]NpzSystemMonitor-ProcessBridge.exe」を開く
 			1秒待つ

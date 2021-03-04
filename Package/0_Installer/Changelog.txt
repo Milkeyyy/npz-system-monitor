@@ -1,9 +1,14 @@
 Npz System Monitor Online Installer - Changelog
 
+Version 1.3.0 (10300.210302)
+[変更点]
+起動引数を変更 (-Update -> -UpdateTo{ReleaseCycle})
+release,test 両方のリリースサイクルに対応
+ファイルの説明にリリースサイクルを追加
+
 Version 1.2.0 (10200.210301)
 [変更点]
 アップデート機能を追加
-release,test 両方のリリースサイクルに対応
 
 Version 1.1.0 (10100.210202)
 [変更点]
