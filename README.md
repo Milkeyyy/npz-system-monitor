@@ -1,5 +1,5 @@
 # Npz System Monitor
-Npz System Monitor は、CPU, RAMの使用率、ディスクの読み書き速度、ネットワークの送受信量を表示するモニターアプリケーションです。
+Npz System Monitor は、CPU, RAMの使用量/使用率、ディスクの読み書き速度、ネットワークの送受信量を表示するモニターアプリケーションです。
 
 ・[**インストーラーのダウンロード (release - 推奨)**](https://github.com/Milkeyyy/npz-system-monitor/raw/main/Package/0_Installer/NpzSystemMonitor-OnlineInstaller.exe "インストーラーのダウンロード")
 
