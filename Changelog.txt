@@ -1,5 +1,9 @@
 Npz System Monitor - Changelog
 
+Version 1.0.3-release (10003.210306)
+[変更点]
+起動時にファイルチェックを実行するように
+
 Version 1.0.2-release (10002.210305) / Version 1.0.0-test.6 (10000.210304)
 [変更点]
 オンラインインストーラー Version 1.3.0 へ対応
