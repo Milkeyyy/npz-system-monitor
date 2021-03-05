@@ -1,5 +1,11 @@
 Npz System Monitor - Changelog
 
+Version 1.0.4-release (10004.210307)
+[不具合修正]
+アップデートが実行できない
+起動引数「-ForcedUpdate」が機能していなかった
+強制アップデートが機能していなかった
+
 Version 1.0.3-release (10003.210306)
 [変更点]
 起動時にファイルチェックを実行するように
