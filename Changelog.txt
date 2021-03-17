@@ -1,5 +1,12 @@
 Npz System Monitor - Changelog
 
+Version 1.0.6-release (10100.210311)
+[変更点]
+設定画面のウィンドウの位置/ウィンドウの大きさダイヤルの更新頻度を1秒から0.5秒へ変更
+
+[不具合修正]
+メイン画面の座標が負の値になると設定画面のダイヤルが更新されなくなり、アプリケーションが正しく終了できなくなる
+
 Version 1.1.0-test.2 (10100.210310)
 [変更点]
 ProcessBridge(NpzSystemMonitor-ProcessBridge.exe) の名称を ProcessHelper(NpzSystemMonitor-ProcessHelper.exe) へ変更
