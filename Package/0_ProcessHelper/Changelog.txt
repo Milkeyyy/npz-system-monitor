@@ -1,0 +1,9 @@
+Npz System Monitor ProcessHelper | Changelog
+
+Version 1.1.0 (10100.210301)
+[変更点]
+名称を ProcessHelper(NpzSystemMonitor-ProcessHelper.exe) へ変更
+起動時にアプリケーションのタイトルやバージョンを表示するように
+
+Version 1.0.0 (10000.210201)
+(初回バージョン/名称は ProcessBridge)
