@@ -12,7 +12,7 @@
 メインアイコン=素材リストから「icon.ico」をアイコンとして取得したもの
 
 設定ファイルディレクトリー=「[マイドキュメント][プログラムのタイトル]\」
-アップデートファイルURL=「https://raw.githubusercontent.com/Milkeyyy/npz-system-monitor/main/Package/Update.ini」
+アップデートファイルURL=「https://github.com/Milkeyyy/npz-system-monitor/raw/package/Update.ini」
 ライセンスURL=「http://bit.ly/npzsm-licence」
 アップデートサイクルリスト=「」
 
