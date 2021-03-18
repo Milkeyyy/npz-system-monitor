@@ -1,5 +1,10 @@
 Npz System Monitor - Changelog
 
+Version 1.1.0-test.3 (10100.210312)
+[変更点]
+強制アップデートを実行時に表示される確認ウィンドウを追加
+新しい Update.ini へ対応
+
 Version 1.1.0-test.2 (10100.210310)
 [変更点]
 ProcessBridge(NpzSystemMonitor-ProcessBridge.exe) の名称を ProcessHelper(NpzSystemMonitor-ProcessHelper.exe) へ変更
