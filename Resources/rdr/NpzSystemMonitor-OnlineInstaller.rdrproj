@@ -1,6 +1,6 @@
 <プロジェクト 名前="Npz System Monitor Online Installer" ビット32="○" 管理者実行="○" ライブラリ同梱="○">
   <一覧>
-    <項目 位置="rdr\Installer\NpzSystemMonitor-OnlineInstaller.rdr" 開始="○" 開く="○" />
+    <項目 位置="NpzSystemMonitor-OnlineInstaller.rdr" 開始="○" 開く="○" />
   </一覧>
   <バージョン 値="1.4.0.0">
     <項目 名前="FileDescription" 値="Npz System Monitor Online Installer (Test)" />
@@ -9,7 +9,7 @@
     <項目 名前="LegalCopyright" 値="Copyright 2021 Nor &lt;parz&gt;" />
   </バージョン>
   <リソース>
-    <項目 名前="アイコン" 値="Resources\Icons\icon.ico" />
+    <項目 名前="アイコン" 値="..\Resources\Icons\icon.ico" />
   </リソース>
   <実行開始 モード="OnConsole" パス="" 形式="Console" />
 </プロジェクト>
