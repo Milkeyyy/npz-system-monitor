@@ -1,9 +1,9 @@
 ※コンソール
 プログラムのタイトル=「Npz System Monitor Online Installer」
-バージョン=「1.4.0」
-内部バージョン=10400.210303
-ビルド日=「2021/03/16」
-インストールリリースサイクル=「test」
+バージョン=「1.5.0」
+内部バージョン=「10500.210304」
+ビルド日=「2021/03/19」
+インストールリリースサイクル=「release」
 ライセンス=「AGPL-3.0 License」
 作者=「Nor <parz>」
 メインアプリケーションタイトル=「Npz System Monitor」
@@ -15,10 +15,10 @@
 
 タイムスタンプ表示=○
 
-インストーラーURL=「https://github.com/Milkeyyy/npz-system-monitor/raw/main/Package/0_Installer/NpzSystemMonitor-OnlineInstaller.exe」
-パッケージURL=「https://github.com/Milkeyyy/npz-system-monitor/raw/main/Package/」
-アップデートファイルURL=「https://raw.githubusercontent.com/Milkeyyy/npz-system-monitor/main/Package/Update.ini」
-アーカイバーURL=「https://github.com/Milkeyyy/npz-system-monitor/raw/main/Resources/Resources/Libraries/7-zip32.dll」
+インストーラーURL=「https://github.com/Milkeyyy/npz-system-monitor/raw/package/0_Installer/[インストールリリースサイクル]/NpzSystemMonitor-OnlineInstaller.exe」
+パッケージURL=「https://github.com/Milkeyyy/npz-system-monitor/raw/package/」
+アップデートファイルURL=「https://raw.githubusercontent.com/Milkeyyy/npz-system-monitor/package/Update.ini」
+アーカイバーURL=「https://github.com/Milkeyyy/npz-system-monitor/raw/package/00_Libraries/7-zip32.dll」
 
 「[プログラムのタイトル] | Version [バージョン] ([内部バージョン]) [[][ビルド日][]]
 解凍アーカイバーdll: .7z 書庫 統合アーカイバ仕様圧縮解凍 DLL (7-zip32.dll) - GNU Lesser General Public License (LGPL)
@@ -79,7 +79,8 @@
 	コンソール内容=「ファイルを削除中...」。コンソール出力する
 	「[プログラムファイル][メインアプリケーションタイトル]\*.*」を削除する
 	コンソール内容=「完了」。コンソール出力する
-	コンソール内容=「アップデートを開始... ([インストールリリースサイクル])
+	コンソール内容=「
+アップデートを開始... ([インストールリリースサイクル])
 」。コンソール出力する
 	通常インストールする
 終わり
