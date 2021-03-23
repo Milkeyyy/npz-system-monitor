@@ -11,5 +11,5 @@
   <リソース>
     <項目 名前="アイコン" 値="..\Resources\Icons\icon.ico" />
   </リソース>
-  <実行開始 モード="AsNewProcess" パス="" 形式="Executable" />
+  <実行開始 モード="OnDesigner" パス="" 形式="Executable" />
 </プロジェクト>
