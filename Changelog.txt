@@ -1,5 +1,10 @@
 Npz System Monitor Online Installer - Changelog
 
+Version 1.7.0 (10700.210402)
+[変更点]
+
+処理時のメッセージを改善
+
 Version 1.6.0 (10600.210401)
 [変更点]
 上書きインストール時にファイルを削除するように変更
