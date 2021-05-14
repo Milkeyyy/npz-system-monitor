@@ -1,4 +1,4 @@
-<プロジェクト 名前="Npz System Monitor" ビット32="○" 管理者実行="×" ライブラリ同梱="○">
+<プロジェクト 名前="Npz System Monitor" ビット32="×" 管理者実行="×" ライブラリ同梱="○">
   <一覧>
     <項目 位置="NpzSM-MainApp.rdr" 開始="○" 開く="○" />
   </一覧>
@@ -11,5 +11,5 @@
   <リソース>
     <項目 名前="アイコン" 値="..\Resources\Icons\icon.ico" />
   </リソース>
-  <実行開始 モード="OnDesigner" パス="" 形式="Executable" />
+  <実行開始 モード="AsNewProcess" パス="" 形式="Executable" />
 </プロジェクト>
