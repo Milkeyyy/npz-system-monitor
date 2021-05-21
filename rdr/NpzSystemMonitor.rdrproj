@@ -5,7 +5,7 @@
   <バージョン 値="1.2.0.0">
     <項目 名前="FileDescription" 値="Npz System Monitor" />
     <項目 名前="CompanyName" 値="Nor &lt;parz&gt;" />
-    <項目 名前="ProductName" 値="Npz System Monitor" />
+    <項目 名前="ProductName" 値="Npz System Monitor (Test Build)" />
     <項目 名前="LegalCopyright" 値="Copyright 2021 Nor &lt;parz&gt;" />
   </バージョン>
   <リソース>
