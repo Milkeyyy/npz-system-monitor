@@ -1,4 +1,4 @@
 -UpdateCheck - アップデートを確認
--ForcedUpdate - バージョンに関係なく強制的にアップデートを実行
+-ForcedUpdate - バージョンを無視して強制的にアップデートを実行
 -NoUpdateCheck - アップデートチェックを行わずに起動
 -ResetConfig - 起動時にコンフィグをリセット (Config.iniを削除)
