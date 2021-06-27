@@ -1,3 +1,5 @@
+この変更履歴は更新されません。新しい変更履歴はこちら: https://github.com/Nor-parz/npz-system-monitor/blob/release/Changelog.md
+
 Npz System Monitor - Changelog
 
 Version 1.2.0-release (10200.210605)
