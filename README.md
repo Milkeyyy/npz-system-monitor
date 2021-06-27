@@ -10,7 +10,7 @@ Npz System Monitor は、CPU, RAMの使用量/使用率、ディスクの読み�
 
 ### **変更履歴**
 
-・[**Release**](https://raw.githubusercontent.com/Nor-parz/npz-system-monitor/release/Changelog.txt)
+・[**Release**](https://github.com/Nor-parz/npz-system-monitor/blob/release/Changelog.md)
 
 ・[**Test**](https://raw.githubusercontent.com/Nor-parz/npz-system-monitor/test/Changelog.txt)
 
