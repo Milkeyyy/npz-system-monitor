@@ -1,5 +1,11 @@
 Npz System Monitor Online Installer - Changelog
 
+Version 1.8.0 (10800.210701)
+[変更点]
+GUIを実装
+Release/Testのインストーラーを統合
+アイコンをインストーラー用のものへ変更
+
 Version 1.7.0 (10700.210402)
 [変更点]
 解凍時の処理をPowershellの機能を利用するように変更、アーカイバーが不要になった
