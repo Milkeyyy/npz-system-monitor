@@ -1,5 +1,5 @@
 ※コンソール
-素材として「..\Resources\Icons\icon_installer.ico」を利用する。素材リストから「icon.ico」をアイコンとして取得して、メインアイコンとする
+素材として「..\Resources\Icons\icon_installer.ico」を利用する。素材リストから「icon_installer.ico」をアイコンとして取得して、メインアイコンとする
 プログラムのタイトル=「Npz System Monitor Online Installer」
 バージョン=「1.8.0」
 内部バージョン=「10700.210701」
